@@ -68,7 +68,7 @@ function slideOut(){
 		if(i>STEPS){
 			// document.getElementsByTagName("body")[0].style.cursor="progress";
 			location.href=targets[ind];
-			// return;
+			return;
 		}
 		// body.style.opacity=1-i/STEPS/2;
 		sugg.style.opacity=1-i/STEPS;
