@@ -10,7 +10,7 @@ var php='<div id="blue_strip">'+
 	'<div id="menu_strip">'+
 	'	<div class="menu_tab" data-num="0" onclick="location.href=\'html/meet_the_team/index.html\'">MEET THE TEAM</div>'+
 	'	<div class="menu_tab" data-num="1" onclick="location.href=\'html/club_support/index.html\'">CLUB SUPPORT</div>'+
-	'	<div class="menu_tab" data-num="2" onclick="location.href=\'html/senate/html\'">SENATE</div>'+
+	'	<div class="menu_tab" data-num="2" onclick="location.href=\'html/senate/index.html\'">SENATE</div>'+
 	'	<div class="menu_tab" data-num="3" onclick="location.href=\'html/transportation/index.html\'">TRANSPORTATION</div>'+
 	'	<!--<div class="menu_tab" data-num="4" onclick="location.href=\'html/resources/index.html\'">RESOURCES</div>'+
 	'	<div class="menu_tab" data-num="5" onclick="location.href=\'html/events/index.html\'">EVENTS</div>-->'+
@@ -46,8 +46,8 @@ var NUM_TABS=tabs.length;
 	var label_hrefs=[
 		["branches","network","deans"],
 		["allocations","treasury","club_support_comm"],
-		["cowg","dining","club_support","services_and_outreach",
-			"sj_and_diversity","sustainability","ways_and_means"],
+		[/*"cowg",*/"dining","club_support","services_and_outreach",
+			/*"sj_and_diversity","sustainability","ways_and_means"*/],
 		["boston_cambridge","riverside","turkey"]
 		// ["forms","constitution"],
 		// ["calendar","deisday","deisimpact"]
