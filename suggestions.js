@@ -8,13 +8,16 @@ body.style.overflow="hidden";
 
 // text
 var suggs=[
-	"see what forms you need to get funding",
-	"missed an email? see the events calendar",
+	"club leader? check out our new guides for funding",
+	"get involved with dining initiatives!",
+	"what days is the boston/cambridge shuttle running?",
+	// "missed an email? see the events calendar",
 	"who's in the Student Union?"
 ];
 var targets=[
-	"html/club_support/index.html",
-	"html/events/index.html",
+	"html/club_support/treasury.html",
+	"html/senate/dining.html",
+	"html/transportation/boston_cambridge.html",
 	"html/meet_the_team/index.html"
 ];
 
