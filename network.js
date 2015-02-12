@@ -82,7 +82,7 @@ var node_heap=[
 	new PNetNode("Luxi Wen","Wen.jpg",-10,0,640,740),
 	new PNetNode("Millie Wu","Wu.jpg",-46,-31,310,300),
 	new PNetNode("Shukai Zhang","Zhang.jpg",-20,-10,910,410),
-	new PNetNode("Caiwei (Alison) Zheng","Zheng.jpg",-20,0,770,575)
+	new PNetNode("Alison (Caiwei) Zheng","Zheng.jpg",-20,0,770,575)
 ];
 
 var edges_heap=[
