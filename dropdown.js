@@ -12,8 +12,8 @@ var php='<div id="blue_strip">'+
 	'	<div class="menu_tab" data-num="1" onclick="location.href=\'html/club_support/index.html\'">CLUB SUPPORT</div>'+
 	'	<div class="menu_tab" data-num="2" onclick="location.href=\'html/senate/index.html\'">SENATE</div>'+
 	'	<div class="menu_tab" data-num="3" onclick="location.href=\'html/transportation/index.html\'">TRANSPORTATION</div>'+
-	'	<!--<div class="menu_tab" data-num="4" onclick="location.href=\'html/resources/index.html\'">RESOURCES</div>'+
-	'	<div class="menu_tab" data-num="5" onclick="location.href=\'html/events/index.html\'">EVENTS</div>-->'+
+	'	<div class="menu_tab" data-num="4" onclick="location.href=\'html/events/index.html\'">EVENTS</div>'+
+	'	<!--<div class="menu_tab" data-num="5" onclick="location.href=\'html/resources/index.html\'">RESOURCES</div>-->'+
 	'	<!--<div class="green_tab" onclick="location.href=\'html/committees/index.html\'">COMMITTEES</div>-->'+
 	'</div>'+
 	'<div class="horiz_margin" style="position:absolute;top:80px;width:1020px"></div>'+
@@ -36,21 +36,21 @@ var NUM_TABS=tabs.length;
 		// mitchell,margolin,herbstritt,michalos
 		// marla,anna,brian
 		["Boston/Cambridge","Riverside T-station","Turkey"],// transportation
+		["Calendar"]// events
 		// ["Forms","Constitution"],// resources
-		// ["Calendar","DeisDay","DeisImpact"]// events
 		// ceef
 	];
 	var label_folders=[
-		"meet_the_team","club_support","senate","transportation"//,"resources","events"
+		"meet_the_team","club_support","senate","transportation","events"//,"resources","events"
 	];
 	var label_hrefs=[
 		["branches","network","deans"],
 		["allocations","treasury","club_support_comm"],
 		[/*"cowg",*/"dining","club_support","services_and_outreach",
 			/*"sj_and_diversity","sustainability","ways_and_means"*/],
-		["boston_cambridge","riverside","turkey"]
+		["boston_cambridge","riverside","turkey"],
+		["calendar"]
 		// ["forms","constitution"],
-		// ["calendar","deisday","deisimpact"]
 	];
 
 	var label_widths=[161,143,170,175,126,96];

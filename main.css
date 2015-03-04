@@ -57,3 +57,12 @@ body{font-family:Arial,sans-serif}
 .mesa{font-family:'Ubuntu',sans-serif;font-size:16px;padding:5px;background-color:#444;
 	border-radius:20px;border:#777 4px solid;color:white
 }
+
+/* CALENDAR.html */
+#year_disp,#month_disp,.date_option{
+	height:36px;width:50px;line-height:36px;padding:0 10px;
+	background-color:#08F;color:white;display:inline-block;cursor:pointer;
+}
+.date_option{
+	background-color:#0F0;
+}
