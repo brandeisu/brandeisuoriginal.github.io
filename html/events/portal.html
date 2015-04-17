@@ -19,6 +19,22 @@
 	<div id="month_disp"></div>
 	<div id="month_ops" style="display:none"></div>
 	<div id="ev_list"></div>
+
+	<p>
+		<input type="text" placeholder="day"><br />
+		<input type="text" placeholder="month"><br />
+		<input type="text" placeholder="year"><br />
+		<input type="text" placeholder="description"><br />
+		<button onclick="user_create(this.parentNode)">CREATE</button>
+	</p>
+	<p>
+		<input type="text" placeholder="key"><br />
+		<input type="text" placeholder="value"><br />
+		<button onclick="user_update(this.parentNode)">UPDATE</button>
+	</p>
+	<p>
+		<button onclick="user_destroy(this.parentNode)">DESTROY</button>
+	</p>
 </div>
 
 <script src="js/calendar.js"></script>
