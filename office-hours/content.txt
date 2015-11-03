@@ -1,0 +1,17 @@
+ 
+        <div class="card content">
+            <div class="container">
+                <br><h1>Office Hours</h1>
+                <h4 class="thin">Access to your representatives. Every day of the Week.</h4>
+                <br class="hideable">
+                <p><a href="oh.pdf">Here</a> are the office hours for each representative of the Student Union, arranged by day of the week.  All office hours are held in the Student Union Office, on the third floor of the Shapiro Campus Center.  If you can't get in to the office or it doesn't appear as if the representative is there, please send them and <a href="mailto:nmacklin@brandeis.edu">Nyah Macklin</a>, so that they can find another time to meet with you. Note that these refer to days that school is in session only, and will follow schedule modifications (i.e. Brandeis Thursdays will follow the Thursday schedule).</p>
+            </div>
+            <br>
+            <h3><a href="oh.pdf">Click Here For Office Hours</a></h3>
+            
+            <br>
+            <h4 class="thin container">Remember that if you are not able to make office hours with a specific person, you are always welcome to email them.</h4>
+            <br>
+            <br>
+            <br>
+        </div>
