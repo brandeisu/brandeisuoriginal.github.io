@@ -33,7 +33,7 @@
 			</div>
 		</div>
 		<div class="container online-resources">
-			<h2 class="header center">How Can Wee Help <i>You</i>?</h2>
+			<h2 class="header center">How Can We Help <i>You</i>?</h2>
 			<div class="row tableify">
 				<div class="col m6 s12">
 					<a class="btn bg-brandeis-blue-0" href="office-hours">
