@@ -672,7 +672,9 @@ footer.footer-canopy{
 }
 
 .btn:hover{
-    opacity: .8;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.30), 0 4px 25px 0 rgba(0, 0, 0, 0.20); 
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.30), 0 4px 15px 0 rgba(0, 0, 0, 0.20); 
+    -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.30), 0 4px 15px 0 rgba(0, 0, 0, 0.20); 
 }
 
 .office-hours-table .row{
