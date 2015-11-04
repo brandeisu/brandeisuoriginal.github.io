@@ -4,9 +4,15 @@
             <h2>Executive Board <span class="hideable">(E-Board)</span></h2>
             <div class="container">
                 <p>
-                    The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future. The executive board serves as students voice in discussions about Brandeis' future.  
+                    The executive board serves as students voice in discussions about Brandeis' future.
+                    While other branches of the union focus on the immediate concerns of students, the E-Board serves as a guiding hand,
+                    advising and coordinating the various branches of the Union, and presenting a cohesive face to the Student Union.
+                    Additionally, E-Board members
+                    establish strong relationships with administrators, trustees and faculty and leverage those relationships to
+                    advance the student voice.  The composition of the Executive Board is set at the discretion of the President,
+                    and the flexibility of the board allows it to adapt to the changing needs of students through the creation of
+                    appointed positions.
                 </p>
-               
             </div>
             <br>
             <br class="hideable">

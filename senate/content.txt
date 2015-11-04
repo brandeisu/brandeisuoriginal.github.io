@@ -3,7 +3,12 @@
 		<br>
 		<br class="hideable">
 		<h2>The Senate</h2>
-		<p>The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies. The senate is comprised of senators from across the University, representing a wide range of class years and constituincies.</p>
+		<p>
+			The Undergraduate Student Union Senate is a deliberative body made up of many Senators representing various constituencies within the Brandeis Community. Senators represent classes, quads, the racial minority community, and even the entire undergraduate student body. 
+		</p>
+		<p>
+			The Senate is responsible for working and creating legislation through its various committees, and works on issues related to student outreach, the state of various facilities and their effects on the student body, recognizing and chartering clubs, and addressing problems of social justice, diversity, and sustainability on campus. Descriptions of each committee are located in Article VI of the Student Union Bylaws, and contact information for committee chairs is available online.
+		</p>
 		<br>
 		<br class="hideable">
 	</div>
